@@ -1,0 +1,9 @@
+xmodel,p8_fxp_magma_blob
+xmodel,wpn_t7_pistol_mr6_prop
+xmodel,wpn_t7_sniper_locus_view
+xmodel,wpn_t7_zmb_thundergun_view
+xmodel,wpn_t8_zm_blundersplat_view
+xmodel,wpn_t8_zm_magmagat_view
+xmodelalias,wpn_t7_zmb_dg2_models
+xmodelalias,wpn_t7_zmb_zod_idg_models
+xmodelalias,wpn_t7_zm_hd_wavegun_models

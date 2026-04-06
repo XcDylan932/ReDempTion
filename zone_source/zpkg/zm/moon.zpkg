@@ -1,0 +1,3 @@
+customizationtable,zm_character_customization_moon
+include,zpkg/zm/fx/MoonFX
+include,zpkg/zm/scripts/MoonScripts

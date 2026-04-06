@@ -1,0 +1,3 @@
+customizationtable,zm_character_customization_zmhd
+include,zpkg/zm/fx/PrisonFX
+include,zpkg/zm/scripts/scripts

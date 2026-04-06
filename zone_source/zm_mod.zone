@@ -1,0 +1,7 @@
+>mode,zm
+>type,common
+
+#include "zm_mod.class"
+
+sound,zm_mod
+include,zpkg/zm/_zm_mod

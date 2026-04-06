@@ -1,0 +1,10 @@
+ignore,zm_mod_ignore
+
+//include,zpkg/zm/genesis
+//include,zpkg/zm/moon
+//include,zpkg/zm/tomb
+include,zpkg/zm/zmhd
+
+rawfile,dummy.cfg
+
+stringtable,gamedata/audio/zm/zm_mod_vox.csv
